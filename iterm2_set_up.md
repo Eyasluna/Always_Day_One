@@ -12,7 +12,7 @@ Run ```git clone https://github.com/zsh-users/zsh-autosuggestions.git``` and
 
 ```git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting``` under /.oh-my-zsh/plugins.
 
-Then run ```source custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh``` and 
-```source custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh```
+Then run ```source .oh-my-zsh/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh``` and 
+```source .oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh```
 
 Run ```source ~/.zshrc``` 
