@@ -15,7 +15,7 @@ export PATH="/opt/homebrew/bin:$PATH" >> ~/.zshrc
 ```
 
 ### 3. Node install
-Web: https://nodejs.org/en/download/
+```brew install node```
 
 ### 4. Python install
 
