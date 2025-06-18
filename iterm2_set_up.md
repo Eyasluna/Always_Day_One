@@ -9,7 +9,14 @@ Then run ```git clone https://github.com/dracula/zsh.git ~/.oh-my-zsh/custom/the
 ### 3. zsh plugin set up
 Run ```git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions``` and ```git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting``` 
 
-Add plugin inside ```.zshrc```file
+Add plugin inside ```.zshrc```file:
+```
+plugins=(
+	git
+	zsh-autosuggestions
+	zsh-syntax-highlighting
+)
+```
 
 Run ```source ~/.zshrc``` 
 
