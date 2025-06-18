@@ -3,7 +3,7 @@ Download theme file to ```/user```: https://draculatheme.com/iterm
 
 
 ### 2. zsh Theme
-Run ```git clone https://github.com/dracula/zsh.git``` under ```/.oh-my-zsh/themes```, choose Dracula theme from iterm2 setting. 
+Run ```git clone https://github.com/dracula/iterm.git``` under ```/.oh-my-zsh/themes```, choose Dracula theme from iterm2 setting. 
 
 Move ```dracula.zsh-theme``` and ```/lib``` from cloned```zsh```to ```/.oh-my-zsh/themes/theme``` 
 
